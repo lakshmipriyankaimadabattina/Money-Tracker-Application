@@ -28,9 +28,7 @@ To run the Money Tracker Application locally:
 4. Install dependencies using `npm install`.
 5. Start the application with `node server.js`.
 
-## Live Demo
 
-Check out the live demo of the Money Tracker Application [here](<your live demo link if available>).
 
 ## Key Learnings
 
